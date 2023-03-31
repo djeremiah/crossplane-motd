@@ -1,0 +1,6 @@
+---
+- name: Trigger update-motd
+  ansible.builtin.systemd:
+    name: update-motd
+    state: started
+  listen: 'update motd'

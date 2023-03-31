@@ -1,0 +1,12 @@
+galaxy_info:
+  author: Murph
+  description: This role adds a Crossplane banner to the message of the day on Linux systems.
+
+  license: MIT-0
+
+  min_ansible_version: 2.1
+
+
+  galaxy_tags: []
+
+dependencies: []

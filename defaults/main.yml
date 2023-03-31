@@ -1,0 +1,3 @@
+---
+destination: /etc/update-motd.d
+priority: 99
